@@ -18,4 +18,7 @@ My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in de
 ![](https://img.shields.io/badge/Tools-Git-orange)
 
 
+[![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabhbh21)](https://github.com/anuraghazra/github-readme-stats)
+
+
  
