@@ -1,7 +1,11 @@
-### Hi there 👋
-Welcome to my GitHub page. <br/>
-I'm a Machine Learning Engineer, who love developing Machine Learning System to solving challenging problems. I'm experienced in developing end-to-end software pipeline for text-classification system. Currently, my work is limited to classification problems in Natural Language Processing and Deep Learning.
+### Hey, there 👋
+My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer. I lives in Bengaluru, India. You can reach out to me on [![LinkedIn][1.2]][1].
 
+<!-- Icons -->
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/saurabhbhagvatula/
 
 ## Technical Competencies:
 ![](https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange)
