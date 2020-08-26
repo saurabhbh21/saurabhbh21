@@ -1,5 +1,5 @@
 ### Hey, there 👋
-My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer. I lives in Bengaluru, India. You can reach out to me on [![LinkedIn][1.2]][1].
+My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in developing text-classification system using Natural Language Processing and Deep Learning. I lives in Bengaluru, India. You can reach out to me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
