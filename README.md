@@ -18,9 +18,9 @@ My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in de
 ![](https://img.shields.io/badge/Tools-Git-orange)
 
 ## Projects:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/saurabhbh21/Quora_Question_Pair_Similarity">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhbh21&repo=Quora_Question_Pair_Similarity" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/saurabhbh21/DLTemplate">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhbh21&repo=DLTemplate" />
 </a>
