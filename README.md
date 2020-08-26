@@ -1,14 +1,8 @@
 ### Hi there 👋
 Welcome to my GitHub page. <br/>
-I'm a Machine Learning Engineer, who love developing Machine Learning System to solving challenging problems. I experienced in developing end-to-end software pipeline for text-classification system.
+I'm a Machine Learning Engineer, who love developing Machine Learning System to solving challenging problems. I'm experienced in developing end-to-end software pipeline for text-classification system.
 
-
-## Breadth of work in Machine Learning: 
-Developing software pipeline for data pre-processing <br/>
-Implementing Machine Learning or Deep Learning architecture <br/>
-Training the models <br/>
-Error analysis for improving the model performance <br/>
-Deploying Machine Learning Services <br/>
+The bredth of my work in Machine Learning are Developing software pipeline for data pre-processing, Implementing Machine Learning or Deep Learning architecture, Training the models, Error analysis for improving the model performance, Deploying Machine Learning Services.
 
 
 ## Technical Competentcies:
