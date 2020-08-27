@@ -1,11 +1,6 @@
 ### Hey, there 👋
-My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in developing text-classification system using Natural Language Processing and Deep Learning. I lives in Bengaluru, India. You can reach out to me on [![LinkedIn][1.2]][1].
+My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in developing text-classification system using Natural Language Processing and Deep Learning. I lives in Bengaluru, India. 
 
-<!-- Icons -->
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/saurabhbhagvatula/
 
 ## Technical Competencies:
 ![](https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange)
@@ -16,3 +11,17 @@ My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in de
 ![](https://img.shields.io/badge/Code-Python-orange)
 ![](https://img.shields.io/badge/Tools-Docker-orange)
 ![](https://img.shields.io/badge/Tools-Git-orange)
+
+
+
+<hr>
+<p align="center">
+  <i>Reach out to me:</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/saurabhbhagvatula/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:saurabhbh21@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+  </p>
+
+</p>
+
