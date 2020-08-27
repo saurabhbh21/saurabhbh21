@@ -13,14 +13,6 @@ My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in de
 ![](https://img.shields.io/badge/Tools-Git-orange)
 
 
-<a href="https://github.com/saurabhbh21/Quora_Question_Pair_Similarity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhbh21&repo=Quora_Question_Pair_Similarity" />
-</a>
-<a href="https://github.com/saurabhbh21/DLTemplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhbh21&repo=DLTemplate" />
-</a>
-
-
 <hr>
 <p align="center">
   <i>Reach out to me:</i>
