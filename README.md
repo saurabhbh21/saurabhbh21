@@ -19,7 +19,7 @@ My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in de
 
 <hr>
 <p align="center">
-  <i>Get in Touch:</i>
+  <i>Feel Free to Get in Touch:</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/saurabhbhagvatula/" alt="Linkedin"><img src="https://raw.githubusercontent.com/saurabhbh21/saurabhbh21/master/img/linkedin-fill.svg"></a>
