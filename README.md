@@ -19,8 +19,8 @@ My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in de
   <i>Reach out to me:</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/saurabhbhagvatula/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:saurabhbh21@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/saurabhbhagvatula/" alt="Linkedin"><img src="https://raw.githubusercontent.com/saurabhbh21/saurabhbh21/master/img/linkedin-fill.svg"></a>
+    <a href="mailto:saurabhbh21@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/saurabhbh21/saurabhbh21/master/img/mail-fill.svg"></a>
   </p>
 
 </p>
