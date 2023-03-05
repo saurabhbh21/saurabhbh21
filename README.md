@@ -1,9 +1,8 @@
 ### Hey, there 👋
-My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in developing text-classification system using Natural Language Processing and Deep Learning. I lives in Bengaluru, India. 
+My name is Saurabh Bhagvatula. I'm a Machine Learning Engineer experienced in developing intelligence feature for large scale-scale consumer application. I'm passionate about intersection of AI and Engineering.
 
-* Ask me Anything for Getting Started in Machine Learning
-* Currently learning to develop system for real-time communication using Deep Learning
-* Looking for collaboration in open-source projects related to Deep Learning and Natural Language Processing
+* AMA: Building career in the space of Machine Learning and Building Scalable Intelligent Feature
+* Current Learning Focus: Developing large-scale System Design for Machine Learning and Developing Machine Learning Platform
 
 ## Technical Competencies:
 ![](https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange)
